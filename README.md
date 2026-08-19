@@ -1,2 +1,2 @@
 # playwright
-Learning Playwright
+Learning Playwright with example .js and package.json
